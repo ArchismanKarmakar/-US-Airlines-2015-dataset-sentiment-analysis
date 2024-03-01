@@ -1,4 +1,4 @@
-# SVM-Boosting-DTree-Twitter-Sentiment-Analysis-on-Twitter-Dataset
+# SVM / Boosting / Decision Tree Twitter Sentiment Analysis on US Airlines 2015 Twitter Dataset
 
 # Author: [Archisman Karmakar](https://www.github.com/ArchismanKarmakar)
 #### This code is free to use and only for educational purposes, misuse of the code and dataset shall not be tolerated. Thanks.
